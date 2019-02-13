@@ -1,0 +1,20 @@
+a:link,a:visited
+{
+background_color:#f44336
+color:white;
+padding:14px 25px;
+text_align:center;
+text_decoration:none;
+display:inline_back;
+}
+a:hover,a:active
+{
+background_color:red;
+}
+
+p{
+border-top-style:dotted;
+border-right-style:solid;
+border-bottom-style:dotted;
+border-left-style:solid;
+}
